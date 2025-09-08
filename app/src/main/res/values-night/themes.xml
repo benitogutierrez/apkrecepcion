@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.ConveniosBataKiosk" parent="Theme.Material3.DayNight.NoActionBar"/>
+    <style name="Theme.ConveniosBataKiosk.NoActionBar" parent="Theme.ConveniosBataKiosk"/>
+</resources>
